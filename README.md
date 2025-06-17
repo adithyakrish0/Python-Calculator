@@ -27,5 +27,7 @@ Enter second number: 3
 ## 📁 File Structure
 
 Python-Calculator/
+
 ├── calc.py
+
 └── README.md
